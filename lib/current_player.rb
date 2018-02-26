@@ -1,8 +1,7 @@
 def turn_count(board)
   counter = 0
   board.each do |turns|
-   if #{turns} !== " "
-    counter += 1
+   puts "#{turns"
   end
 end
   return counter
